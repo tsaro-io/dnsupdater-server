@@ -11,5 +11,14 @@
     "url": "https://git.tsaro.io/Infrastructure/dnsupdater-server.git"
   },
   "author": "Maximilian Florkowski",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "http-auth": "^2.3.9",
+    "ipaddr.js": "^1.1.1",
+    "ldapjs": "^1.0.0",
+    "tempfile": "^1.1.1"
+  },
+  "devDependencies": {}
 }
