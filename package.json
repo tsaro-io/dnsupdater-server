@@ -1,0 +1,15 @@
+{
+  "name": "tsaro-dnsupdater-server",
+  "version": "1.0.0",
+  "description": "Webserver for DNS Updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.tsaro.io/Infrastructure/dnsupdater-server.git"
+  },
+  "author": "Maximilian Florkowski",
+  "license": "MIT"
+}
